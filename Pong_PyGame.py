@@ -12,7 +12,7 @@ clock = pg.time.Clock()
 
 # player params
 Pspeed	= 3
-dir		= { pg.K_LEFT: (0,-Pspeed), pg.K_RIGHT: (0,Pspeed) }
+dir	= { pg.K_LEFT: (0,-Pspeed), pg.K_RIGHT: (0,Pspeed) }
 Pheight = 60
 PheightHalf = int(Pheight/2)
 # left player
