@@ -1,3 +1,6 @@
+"""
+	Nur Windows. Erinnert dich, alle 15 Minuten an einen Blick aus dem Fenster zu werfen.
+"""
 import time
 from datetime import datetime
 from plyer import notification
