@@ -5,6 +5,6 @@
 
 #### TicTacToe (MiniMax)
 <p float="left">
-  <img src="Screenshots/TicTacToe1.jpg" width="60%"/>
-  <img src="Screenshots/TicTacToe2.jpg" width="60%"/>
+  <img src="Screenshots/TicTacToe1.jpg" max-width="600px"/>
+  <img src="Screenshots/TicTacToe2.jpg" max-width="600px"/>
 </p>
